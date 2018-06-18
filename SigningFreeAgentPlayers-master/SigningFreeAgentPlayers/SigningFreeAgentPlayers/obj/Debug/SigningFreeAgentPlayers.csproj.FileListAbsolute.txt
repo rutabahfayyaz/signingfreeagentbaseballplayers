@@ -1,0 +1,9 @@
+c:\users\ramiz\documents\visual studio 2017\Projects\SigningFreeAgentPlayers\SigningFreeAgentPlayers\bin\Debug\SigningFreeAgentPlayers.exe
+c:\users\ramiz\documents\visual studio 2017\Projects\SigningFreeAgentPlayers\SigningFreeAgentPlayers\bin\Debug\SigningFreeAgentPlayers.pdb
+c:\users\ramiz\documents\visual studio 2017\Projects\SigningFreeAgentPlayers\SigningFreeAgentPlayers\obj\Debug\SigningFreeAgentPlayers.csprojResolveAssemblyReference.cache
+c:\users\ramiz\documents\visual studio 2017\Projects\SigningFreeAgentPlayers\SigningFreeAgentPlayers\obj\Debug\SigningFreeAgentPlayers.exe
+c:\users\ramiz\documents\visual studio 2017\Projects\SigningFreeAgentPlayers\SigningFreeAgentPlayers\obj\Debug\SigningFreeAgentPlayers.pdb
+E:\one drive\OneDrive\sem 6\SigningFreeAgentPlayers-master\SigningFreeAgentPlayers\SigningFreeAgentPlayers\bin\Debug\SigningFreeAgentPlayers.exe
+E:\one drive\OneDrive\sem 6\SigningFreeAgentPlayers-master\SigningFreeAgentPlayers\SigningFreeAgentPlayers\bin\Debug\SigningFreeAgentPlayers.pdb
+E:\one drive\OneDrive\sem 6\SigningFreeAgentPlayers-master\SigningFreeAgentPlayers\SigningFreeAgentPlayers\obj\Debug\SigningFreeAgentPlayers.exe
+E:\one drive\OneDrive\sem 6\SigningFreeAgentPlayers-master\SigningFreeAgentPlayers\SigningFreeAgentPlayers\obj\Debug\SigningFreeAgentPlayers.pdb
